@@ -1,0 +1,152 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    
+}
+.head1{
+    font-size: 2rem;
+    margin-left: 1.3em;
+    color: red;
+    margin-top: 0;
+}
+.navbar .Navbar{
+    display: flex;
+}
+
+.Navbar .btn{
+display: flex;
+height: 100%;
+float: right;
+background-color: red;
+height: 2.3em;
+width: 5em;
+border-radius: 6px;
+}
+.btn a{
+    text-decoration: none;
+    color: aliceblue;
+    cursor: pointer;
+}
+ .Main .head2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Main .head2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ }
+ .Main h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Main .text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .container::before{
+    content: "";
+    background: url(https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png) no-repeat center center/cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0.3;
+    z-index: -1;
+ }
+ .emailbtn a{
+text-decoration: none;
+color: aliceblue;
+padding-left: 0.8rem;
+ }
+ .emailbtn{
+    background-color: red;
+    height: 45px;
+    width: 190px;
+border: thick;
+border-radius: 5px; 
+cursor: pointer;
+
+}
+ .text #Email{
+    height: 45px;
+    width: 220px;
+    background-color: black;
+    /* border: thick; */
+    border-color: aliceblue;
+    border-radius: 5px;
+ }
+ .Footer1 .head5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Footer1 .para1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Footer2 .para2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Footer3 .para3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Footer2 .img2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Footer2 .head6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Footer3 .head7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Footer3 .img3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Footer4 .head8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Footer4 .head8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Footer4 .para4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Footer4 .img4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Footer1 .img1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.right{
+    position: absolute;
+    top: 20px;
+    right: 10px;
+}
